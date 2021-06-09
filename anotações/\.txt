@@ -1,0 +1,6 @@
+\n - Usado para pular uma linha (newline).
+\t - usado para dar Tab no texto.
+\b - Usado para apagar algum texto ou pedaço de texto.
+\" - usado para adicionar aspas duplas ("").
+\\ - usado para mostrar esta barra invertida no texto (\).
+\c - Usado para fazer "escape" de sequências

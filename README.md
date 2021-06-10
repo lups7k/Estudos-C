@@ -6,4 +6,4 @@ Estou usando o complicador `cc`
 para usá-lo basta digitar:
   `cc programa.c`
   
-estou usando como base o livro "C Programming Language" de Dennis M. Ritchie e Briank W. Kernighan.
+estou usando como base o livro "The C Programming Language" de Dennis M. Ritchie e Briank W. Kernighan.

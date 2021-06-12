@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /*
-print Fahrenheit-Celsius table
+print Fahrenheit-Celsius table using while
 */
 
 int main()

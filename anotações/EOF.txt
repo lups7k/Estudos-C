@@ -1,0 +1,1 @@
+EOF - EOF (end of file), são caracteres que terminam o arquivo, tais como ctrl + d, ctrl + z, ctrl + c e etc.

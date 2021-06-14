@@ -1,0 +1,5 @@
+getchar - você pode usar a função getchar da biblioteca padrão do C, a função getchar() irá capturar qualquer input que você digitar ao programa, completamente 
+similar ao input() do python. No programa (../programas/getchar.c), eu utilizo a função getchar() pra capturar o input e depois criando um loop com while eu imprimo essa
+função e repito o processo de input.
+putchar - o putchar() basicamente imprime o input, ou seja, enquanto o getchar será o input do usuário, o putchar irá ler o input (getchar()) e imprimir aquele input,
+o transformando em um output para o usuário.

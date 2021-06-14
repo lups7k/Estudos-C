@@ -1,0 +1,4 @@
+<= - menor que, ex. while (2 <= 3), enquanto 2 for menor que 3, ele faz alguma ação.
+>= - maior que
+!= - não igual a, ex. white (2 != 3), enquanto 3 não for igual a 3, ele faz alguma ação.
+= - igual a

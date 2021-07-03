@@ -5,6 +5,6 @@
 %.2f - imprime uma variavel do tipo float com 2 bytes depois do ponto decimal.
 %6.2f - imprime uma variavel do tipo float com com pelo menos 6 bytes de largura e 2 bytes depois do ponto decimal.
 %o - imprime um caractere do tipo octal
-%c - imprime o ascii de um caractere
+%c - imprime o ascii de um caractere // imprime uma variavel do tipo char.
 %s - pega o próximo caractere e imprime como string
 %% - imprime o '%' no texto

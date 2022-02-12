@@ -1,4 +1,6 @@
 # Estudos-C
+**Não atualizado a um bom tempo, arquivado.**
+
 Repositório com meus aprendizados de C (programas e anotações).
 
 Estou usando o compilador `gcc`
